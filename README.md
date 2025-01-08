@@ -4,8 +4,8 @@ I am an avid learner and adapt to different types of technology ( Web Developer 
 
 <!-- - 🖥️ &nbsp; See my portfolio at []() -->
 <!-- - 📝 &nbsp; Checkout my [resume]() -->
-- 🚀 &nbsp; I’m currently working on Automation AI System.
-- 🤝 &nbsp; I’m looking to collaborate on open source projects.
+- 🚀 &nbsp; I’m currently working on an AI agent project.
+<!-- - 🤝 &nbsp; I’m looking to collaborate on open source projects. -->
 
 ### Languages and Tools:
 
